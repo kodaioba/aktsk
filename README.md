@@ -1,1 +1,1 @@
-# aktsk
+# kodai.oba
